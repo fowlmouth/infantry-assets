@@ -1,0 +1,177 @@
+
+~B~0HardCorps~B
+
+
+~B~2-- ~0Zone News ~2--~B
+
+Shortly after the Titan Militia pointlessly boarded the Collective 
+mothership in space and destroyed it a few escape pods were released. 
+One in particular suffered a damaged minor influx converter and was 
+forced to crash land on a nearby moon. The Moon below turns out to be 
+a very basic mini world for titan farmers and scientists. The ship crash 
+landed outside a small Titan town guarded by a small relatively untrained
+group of soldiers. Your Chief engineer sighted a few satellites around 
+the town and surrounding area and thinks the energy the batteries used
+to power them will be sufficient to perform an emergency lift off and 
+get this bucket of bolts moving again.
+
+Your mission as a surviving Collective Trooper is to find and destroy 
+these satellites and retrieve the batteries within. You must destroy 
+the satellites to gain access to there batteries. While the Titan 
+resistance around the town is considered a minor threat little is known 
+of these people and caution is advised. Your communications officer
+intercepted a transmission from the Titan ComLink requesting for 
+reinforcements. They are about 15 minutes out so you must hurry.
+
+Good luck to you and return safely. 
+FOR THE COLLECTIVE!
+
+
+
+~B~2-- ~0Zone Updates ~2--~B
+
+~B~208/05/2008~B
+- Still trying to get the mountian satellite spawn to work correctly
+- Mortar turret removed. This may be permininate
+- Sarge now recieves PDW ammo on death
+- More later tonight...
+
+~B~208/04/2008~B
+- Mortar now only spawns with 12+ people
+- Mortar blast radius reduced
+- Mortar reload is longer
+- Shotgun recieved a tiny buff. Dont expect it to get much stronger.
+- Increased energy cost for medkit
+- Decreased Medics recharge rate
+- Medics vehicle size is corrected
+- Grenades are stronger
+- The turrets Titan Engys build are now destroyable.
+- Engys now have energy and can repair correctly
+- Snipers now fire 2 shots before reload instead of 3.
+- Rippers have slightly better aim
+- Decreased damage from slick turrets
+- Sarges can no longer warp with flag
+
+
+~B~208/01/2008 PM Update~B
+- People now spec in dropships
+- People now spawn in dropships on game start
+- BatteryB now spawns correctly
+- Mountian Satellite spawns correctly 
+
+~B~208/01/2008~B
+Back to the basics!
+
+There have been countless changes made to the item set and several vehicles. 
+
+- New map is being tested, Collective Crash. 
+- Reverted back to the original settings.
+- Several classes have been modified slightly to better suit the gameplay of the new map and original settings.
+
+I welcome any suggestions or comments you may have allthough please remember they will be best served in an organized means. This means either via email or a post on the message boards.
+
+~B06/07/2006~B
+- Suit Teleports have been added to each class. They require full energy to use, and will drain all your energy when used.  The default key is <Alt+Home>
+- Snipers have a Stealth Field Generator instead of Suit Teleport.  When activated, this device makes Snipers invisible on Suit Radar.
+- Squad Leader has been replaced with the Scout.
+- Scouts are armed with PDW, Combat Axe and can lay mines. They are also equipped with EM Imaging Goggles that allow them to see things normally blocked by los.
+- Troopers no longer are equipped with Shotgun.
+- Sergeants retain Command Summon and Command Teleport. Sergeants Command Teleport uses less energy than the standard Suit Teleport.
+
+~B12/21/03~B
+- Sapper now has a strafe/top speed advantage.
+- Sniper now has 90 rounds as opposed to 50.
+- Lifetime on Incinerator was increased.
+- All tracers were made more visible.
+
+~B12/19/03~B
+- Sentry Guns were set back to 5 shot bursts.
+- Ripper gun round colour changed again in order to make it visible.
+- All classes other than Medic and Marine require EXp to use.
+- Added periodic reward for flags held, every 3 minutes you get a reward based upon player number in arena.
+- Increased endgame rewards.
+- Increased outer damage on all weapons kinetic damage.
+- Increased Pistol shield damage.
+- Increased Pistol, AR, and PDW clips
+- Changed Frag Grenades graphic slightly.
+
+~B12/18/03~B
+- Increased visibility of Sentry and Ripper shots.
+- Made GL round more visible by adding a shadow and changing hue.
+- Energy using utilities drain has been lowered to to 75 units from 125.
+- Melee weapons bypass shields.
+- Sniper rifle round bypasses shields.
+- Grenades/laws totally drain shields on a direct hit.
+- Energy using classes got their shield recharge increased.
+- Changed LAW Smoke trail.
+- Incendiary grenades now leave firespots.
+- All classes besides Marine require players to reach Veteran Trooper rank before they become available.
+- All explosive weapons hurt team mates.
+- Changed some sound effects, specifically Demo Charge and LMG's
+- Fixed Demo Charge being thrown from vehicles.
+- Increased armor on all crew positions on vehicles.
+- Added a "Vehicle first aid unit" to all Passenger positions.  You can use it to self heal inside a passenger slot.
+  It can only be used once because it does not reload. It will reload if you leave the vehicle.
+- Medics can now create Stim Packs for energy.  Players can carry just 1 stim pack. It is good for a single heal.
+  Any stims carried by a player are dropped on death.
+- Engineers can no longer place Barriers and turrets while inside a vehicle.
+- Mines cannot be laid while inside a vehicle any more.
+- Passenger spots that allow weapon fire had the rotation rate increased to be more useful.
+
+
+~BUndated updates prior to 12/18/03~B
+- Changed Titan Militia to Morgan Raiders.
+- Vehicles blow up and disappear.
+- Changed the team order so that Collective fills in preference to Morgan Raider side.
+- Friendlies now block your fire.
+- Engineer is now armed with a shotgun
+- Sergeant is now armed with Shotgun and a Chain Sword.
+- Engineer's begin a game with 3 AT mines.
+- Sergeant and Squad Leader begin a game with 3 AP mines and 1 AT mine.
+- Engineers/Sergeants no longer trigger their own mines (durr!)
+
+- Currently testing a CTF game in HardCorps!
+- For this game type, there are 2 additional classes:
+- Sergeant and Engineer.
+
+- Sergeant is like the Sqaud Leader, except that the Sergeant can also Warp to another players position.
+
+- Sergeant's require 100,000 EXP to play.
+
+- Engineer's are a new class that have several new functions:
+- At game start all Engineer's are given a Point Defense Sentry.
+   - PDS units can only be placed once.  There can only be a maximum of 4 within a 1500 pixel radius, and
+     there can only be 8 active per team max, and 1 active per Engineer, max.
+   - PDS units can be destroyed. They can also be repaired.
+   - At game start all Engineer's will be given 2 Barricades to place.
+   - Once a Barricade is placed it cannot be moved again.
+   - Barricades can be destroyed. They can also be repaired.
+   - Barricades block enemy fire and movement, but do not impede their team.
+- Engineer's are equipped with an Enercell and a Repair Kit.
+   - The repair kit requires the user to select what is going to be repaired and
+     requires the user to be within 64 pixels of the object to be repaired.
+
+
+
+~B~2--~0 Collective Crash Credits ~0~2--~B
+
+~BZone Developer~B
+NOD
+
+~BMap Designer~B
+Marine
+
+~BSpecial thanks to Beta testers~B
+Aware
+BLIssID911
+Combat Ace
+Drum72Kid
+NeoLad
+Ramza
+Savage
+Shox
+Soup
+Twenty-Four
+
+
+

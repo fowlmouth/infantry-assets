@@ -1,0 +1,10 @@
+v6,-1,0,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "License Class A","Licenses","!-01002","Allows you to drive any class A vehicle. Class A vehicles are usually light and have slightly better armor than the other vehicle classes.",  ,,0,0,0,0,0,0
+v6,-2,25,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "License Class B","Licenses","","Allows you to drive any class B vehicle. Class B vehicles are for general combat. They usually have a passanger compartment. They have slightly less armor than Class A vehicles but move faster.",  ,,0,0,0,0,0,0
+v6,-3,75,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "License Class C","Licenses","","Allows you to drive any class C vehicle. Class C vehicles usually weight well over 5 tons. There weaons are much stronger and armor much thicker. The extra weight slows them down though.",  ,,0,0,0,0,0,0
+v6,4,0,10,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "M.A.H.I. Controller","Interfaces","","The bot controller is what you use to controll your Mechanical Artificial Human Interface on the play field. Due to recent Callisto treaties live humans are no longer allows to participate in the races.",  ,,0,0,0,0,0,0
+v6,5,0,100,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "APC Controller","Interfaces","","",  ,,0,0,0,0,0,0
+v6,6,0,104,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Harrier Controller","Interfaces","","",  ,,0,0,0,0,0,0
+v6,7,0,103,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Lavi Controller","Interfaces","","",  ,,0,0,0,0,0,0
+v6,8,0,102,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Naut Controller","Interfaces","","",  ,,0,0,0,0,0,0
+v6,9,0,101,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Slick Controller","Interfaces","","",  ,,0,0,0,0,0,0
+v6,10,0,182,2,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Rapier Coltroller","Interfaces","","",  ,,0,0,0,0,0,0

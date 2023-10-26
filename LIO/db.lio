@@ -1,0 +1,34 @@
+4,v25,1,"TeamAStart2",2000,1840,25,300,0,-3,  0,500,0,500,0, 2,1,""
+4,v25,2,"TeamBStart2",4112,1808,25,300,0,-3,  0,500,0,500,0, 2,0,""
+4,v25,3,"TeamADeath",2560,1248,150,50,0,-3,  0,500,0,500,1, 2,1,""
+4,v25,4,"TeamBDeath",3568,1248,150,50,0,-3,  0,500,0,500,1, 2,0,""
+8,v25,5,"Bench",2560,1264,200,75,0,-3,    2,-1,"You must wait untill the next game to get back out on the court."
+1,v25,6,"LeftBench1",2368,1344,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,7,"LeftBench2",2400,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,73,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,8,"LeftBench3",2432,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,9,"LeftBench4",2464,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,10,"LeftBench5",2496,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,11,"LeftBench6",2528,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,12,"LeftBench7",2560,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,13,"LeftBench8",2592,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,14,"LeftBench9",2624,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,15,"LeftBenchA10",2656,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,16,"LeftBenchA11",2688,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,17,"LeftBenchA12",2720,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,18,"LeftBenchA13",2752,1344,0,0,0,-3,    -1,-1,2,2, 0,6,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,19,"RightBench1",3376,1344,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,20,"RightBench2",3408,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,21,"RightBench3",3440,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,22,"RightBench4",3472,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,23,"RightBench5",3504,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,24,"RightBench6",3536,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,25,"RightBench7",3568,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,26,"RightBench8",3600,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,27,"RightBench9",3632,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,28,"RightBenchA10",3664,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,29,"RightBenchA11",3696,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,30,"RightBenchA12",3728,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+1,v25,31,"RightBenchA13",3760,1344,0,0,0,-3,    -1,-1,2,2, 0,19,0,0, Door,nrgdoorH,72,0,0,0,0,150,ambient2,door5,0,0,None,None,0,0
+3,v25,32,"BountyBall",3064,1816,0,0,0,-3,     1000,8,500,  3,3,3,1,1,  0,0,0,  1,0,0,0,  0,0,0,500, 250,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, wotw,flag,0,0,85,0,0,0,sounds,wav00607,0,0,None,None,0,0
+4,v25,33,"TeamAStart1",2560,1248,150,50,0,-3,  0,500,0,500,1, 2,1,""
+4,v25,34,"TeamBStart1",3568,1248,150,50,0,-3,  0,500,0,500,1, 2,0,""

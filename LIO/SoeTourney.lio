@@ -1,0 +1,216 @@
+4,v25,29,"MapStartA",16048,10400,450,450,0,-3,  0,300,0,300,2, 0,0,""
+4,v25,30,"MapStartB",18064,7840,400,400,0,-3,  0,300,0,300,2, 0,0,""
+6,v25,1,"PublicPortalA",14128,10272,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+4,v25,109,"WarpDrain",10608,5616,3000,3000,0,-3,  0,300,0,300,0, 1,0,""
+5,v25,6,"MeteorShowerA",10816,6560,1000,1000,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,2,-422, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,7,"MeteorShowerB",10656,5808,1000,1000,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,2,-422, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,9,"RockSlideB",2032,7856,1500,150,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,3,-405, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,10,"RockSlideC",2032,9360,1500,150,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,3,-405, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,12,"RockSlideD",17088,208,500,150,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,4,-405, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,13,"MeteorShowerC",10784,6400,800,800,0,-3,     1,3000,3000,1, 0,500,0,99999, 1,3,-422, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,37,"WRandom-MeteorsA",0,0,1000,1000,1200,-2,     1,24000,24000,1, 0,500,512,99999, 1,1,-406, 0,0,Class V Meteor Shower Warning!,0,9999, 0,0,0,0, 0
+4,v25,999,"SmallArenaWarp",0,0,2000,2000,777,-2,  0,999,0,0,0, 0,0,""
+4,v25,16,"LargeArenaWarpA",5472,2944,2000,2000,0,-3,  0,300,0,5,0, 0,0,""
+4,v25,20,"LargeArenaWarpB",13312,18768,2000,2000,0,-3,  0,300,0,5,0, 0,0,""
+4,v25,21,"LargeArenaWarpC",9984,11152,2000,2000,0,-3,  0,300,0,5,0, 0,0,""
+4,v25,22,"LargeArenaWarpD",16272,2064,2000,2000,0,-3,  0,300,0,5,0, 0,0,""
+5,v25,23,"VolcanoA",9952,7200,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,24,"VolcanoB",9952,7200,0,0,0,-3,     1,2000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,25,"VolcanoC",11232,5280,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,26,"VolcanoD",11248,5280,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,27,"VolcanoE",11952,3520,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,28,"VolcanoF",10368,3776,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,59,"VolcanoG",5136,6704,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,102,"VolcanoH",11296,3696,0,0,0,-3,     1,5000,5000,1, 0,500,0,99999, 1,-1,-421, 0,0,,0,9999, 0,0,0,0, 0
+6,v25,213,"PublicPortalB",14128,10992,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,214,"PublicPortalC",15504,9360,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,215,"PublicPortalD",15840,9360,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,216,"PublicPortalE",18432,6784,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,217,"PublicPortalF",18176,11408,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,226,"PublicPortalG",15872,11520,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,227,"PublicPortalH",16208,11520,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+4,v25,228,"MapStartC",16960,10896,450,450,0,-3,  0,300,0,300,2, 0,0,""
+4,v25,229,"MapStartD",18064,8864,400,400,0,-3,  0,300,0,300,2, 0,0,""
+4,v25,230,"MapStartE",14720,10656,400,400,0,-3,  0,300,0,300,2, 0,0,""
+6,v25,231,"PublicPortalI",16768,8352,40,40,0,-3,    -1,0,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+1,v25,15,"EnclaveDoorA-1",15304,8928,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,242,"EnclaveDoorA-2",15304,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,243,"EnclaveDoorA-3",15304,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,244,"EnclaveDoorA-4",15320,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,245,"EnclaveDoorA-5",15320,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,246,"EnclaveDoorA-6",15320,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,247,"EnclaveDoorA-7",15336,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,248,"EnclaveDoorA-8",15336,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,249,"EnclaveDoorA-9",15336,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,250,"EnclaveDoorA-10",15352,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,251,"EnclaveDoorA-11",15352,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,252,"EnclaveDoorA-12",15352,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,253,"EnclaveDoorA-13",15368,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,254,"EnclaveDoorA-14",15368,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,255,"EnclaveDoorA-15",15368,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,256,"EnclaveDoorA-16",15384,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,257,"EnclaveDoorA-17",15384,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,258,"EnclaveDoorA-18",15384,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,259,"EnclaveDoorA-19",15400,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,260,"EnclaveDoorA-20",15400,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,261,"EnclaveDoorA-21",15400,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,262,"EnclaveDoorA-22",15416,8896,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,263,"EnclaveDoorA-24",15416,8912,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,264,"EnclaveDoorA-25",15416,8928,0,0,0,0,    0,-1,1,1, 0,15,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,265,"EnclaveDoorB1",15848,11760,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,entrwarp,0,0,ambient2,entrwarp,0,0
+1,v25,266,"EnclaveDoorB2",15848,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,267,"EnclaveDoorB3",15848,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,268,"EnclaveDoorB4",15864,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,269,"EnclaveDoorB5",15864,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,270,"EnclaveDoorB6",15864,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,271,"EnclaveDoorB7",15880,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,272,"EnclaveDoorB8",15880,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,273,"EnclaveDoorB9",15880,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,274,"EnclaveDoorB10",15896,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,275,"EnclaveDoorB11",15896,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,276,"EnclaveDoorB12",15896,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,277,"EnclaveDoorB13",15912,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,278,"EnclaveDoorB14",15912,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,279,"EnclaveDoorB15",15912,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,280,"EnclaveDoorB16",15928,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,281,"EnclaveDoorB17",15944,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,282,"EnclaveDoorB18",15928,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,283,"EnclaveDoorB19",15944,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,284,"EnclaveDoorB20",15944,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,285,"EnclaveDoorB21",15944,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,286,"EnclaveDoorB22",15960,11728,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,287,"EnclaveDoorB23",15960,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,288,"EnclaveDoorB24",15960,11760,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,289,"EnclaveDoorB2",15928,11744,0,0,0,0,    0,-1,1,1, 100,265,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,290,"EnclaveDoorC1",16136,11760,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,291,"EnclaveDoorC2",16136,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,292,"EnclaveDoorC3",16136,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,293,"EnclaveDoorC4",16152,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,294,"EnclaveDoorC5",16152,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,295,"EnclaveDoorC6",16152,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,296,"EnclaveDoorC7",16168,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,297,"EnclaveDoorC8",16168,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,298,"EnclaveDoorC9",16168,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,299,"EnclaveDoorC10",16184,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,300,"EnclaveDoorC11",16184,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,301,"EnclaveDoorC12",16184,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,302,"EnclaveDoorC13",16200,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,303,"EnclaveDoorC14",16200,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,304,"EnclaveDoorC15",16200,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,305,"EnclaveDoorC16",16216,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,306,"EnclaveDoorC17",16216,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,307,"EnclaveDoorC18",16216,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,308,"EnclaveDoorC19",16232,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,309,"EnclaveDoorC20",16232,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,310,"EnclaveDoorC21",16232,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,311,"EnclaveDoorC22",16248,11728,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,312,"EnclaveDoorC23",16248,11744,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,313,"EnclaveDoorC24",16248,11760,0,0,0,0,    0,-1,1,1, 0,290,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,314,"EnclaveDoorD1",18328,6672,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,315,"EnclaveDoorD2",18328,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,316,"EnclaveDoorD3",18328,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,317,"EnclaveDoorD4",18344,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,318,"EnclaveDoorD5",18344,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,319,"EnclaveDoorD6",18344,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,320,"EnclaveDoorD7",18360,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,321,"EnclaveDoorD8",18360,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,322,"EnclaveDoorD9",18360,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,323,"EnclaveDoorD11",18376,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,324,"EnclaveDoorD10",18376,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,325,"EnclaveDoorD12",18376,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,326,"EnclaveDoorD13",18392,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,327,"EnclaveDoorD14",18392,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,328,"EnclaveDoorD15",18392,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,329,"EnclaveDoorD16",18408,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,330,"EnclaveDoorD17",18408,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,331,"EnclaveDoorD18",18408,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,332,"EnclaveDoorD19",18424,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,333,"EnclaveDoorD20",18424,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,334,"EnclaveDoorD21",18424,6640,0,0,0,0,    -1,0,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,335,"EnclaveDoorD22",18440,6640,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,336,"EnclaveDoorD23",18440,6656,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,337,"EnclaveDoorD24",18440,6672,0,0,0,0,    0,-1,1,1, 0,314,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,338,"EnclaveDoorE1",17784,11760,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,339,"EnclaveDoorE2",17784,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,340,"EnclaveDoorE3",17784,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,341,"EnclaveDoorE4",17800,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,342,"EnclaveDoorE5",17800,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,343,"EnclaveDoorE6",17800,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,344,"EnclaveDoorE7",17816,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,345,"EnclaveDoorE8",17816,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,346,"EnclaveDoorE9",17816,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,347,"EnclaveDoorE10",17832,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,348,"EnclaveDoorE11",17832,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,349,"EnclaveDoorE12",17832,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,350,"EnclaveDoorE13",17848,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,351,"EnclaveDoorE14",17848,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,352,"EnclaveDoorE15",17848,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,353,"EnclaveDoorE16",17864,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,354,"EnclaveDoorE17",17864,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,355,"EnclaveDoorE18",17864,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,356,"EnclaveDoorE19",17880,11760,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,357,"EnclaveDoorE20",17880,11744,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,358,"EnclaveDoorE21",17880,11728,0,0,0,0,    0,-1,1,1, 0,338,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,359,"EnclaveDoorF1",13848,10576,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,360,"EnclaveDoorF2",13864,10576,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,361,"EnclaveDoorF3",13864,10592,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,362,"EnclaveDoorF4",13848,10592,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,363,"EnclaveDoorF5",13848,10608,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,364,"EnclaveDoorF6",13864,10608,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,365,"EnclaveDoorF7",13864,10624,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,366,"EnclaveDoorF8",13848,10624,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,367,"EnclaveDoorF9",13848,10640,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,368,"EnclaveDoorF10",13864,10640,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,369,"EnclaveDoorF11",13864,10656,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,370,"EnclaveDoorF12",13848,10656,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,371,"EnclaveDoorF13",13848,10672,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,372,"EnclaveDoorF14",13864,10672,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,373,"EnclaveDoorF15",13864,10688,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,374,"EnclaveDoorF16",13848,10688,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,375,"EnclaveDoorF17",13848,10704,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,376,"EnclaveDoorF18",13864,10704,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,377,"EnclaveDoorF19",13864,10720,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,378,"EnclaveDoorF20",13848,10720,0,0,0,0,    0,-1,1,1, 0,359,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,379,"EnclaveDoorG1",18552,10256,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,380,"EnclaveDoorG2",18568,10256,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,381,"EnclaveDoorG3",18552,10272,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,382,"EnclaveDoorG4",18552,10288,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,383,"EnclaveDoorG5",18568,10272,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,384,"EnclaveDoorG6",18568,10288,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,385,"EnclaveDoorG7",18568,10304,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,386,"EnclaveDoorG8",18552,10304,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,387,"EnclaveDoorG9",18552,10320,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,388,"EnclaveDoorG10",18568,10320,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,389,"EnclaveDoorG11",18568,10336,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,390,"EnclaveDoorG12",18552,10336,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,391,"EnclaveDoorG13",18552,10352,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,392,"EnclaveDoorG14",18568,10352,0,0,0,0,    0,-1,1,1, 0,379,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,393,"EnclaveDoorH1",18568,8592,0,0,0,0,    0,-1,1,1, 100,0,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,394,"EnclaveDoorH2",18568,8608,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,395,"EnclaveDoorH3",18584,8592,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,396,"EnclaveDoorH4",18584,8608,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,397,"EnclaveDoorH5",18568,8624,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,398,"EnclaveDoorH6",18584,8624,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,399,"EnclaveDoorH7",18584,8640,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,400,"EnclaveDoorH8",18568,8640,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,401,"EnclaveDoorH9",18568,8656,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,402,"EnclaveDoorH10",18584,8656,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,403,"EnclaveDoorH11",18584,8672,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,404,"EnclaveDoorH12",18568,8672,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,405,"EnclaveDoorH13",18568,8688,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,406,"EnclaveDoorH14",18584,8688,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,407,"EnclaveDoorH15",18584,8704,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,408,"EnclaveDoorH16",18568,8704,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,409,"EnclaveDoorH17",18568,8720,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,410,"EnclaveDoorH18",18584,8720,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,411,"EnclaveDoorH19",18584,8736,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,412,"EnclaveDoorH20",18568,8736,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,413,"EnclaveDoorH21",18584,8736,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,414,"EnclaveDoorH22",18584,8752,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,415,"EnclaveDoorH23",18568,8752,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,416,"EnclaveDoorH24",18568,8768,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,417,"EnclaveDoorH25",18584,8768,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,418,"EnclaveDoorH26",18584,8784,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+1,v25,419,"EnclaveDoorH27",18568,8784,0,0,0,0,    0,-1,1,1, 0,393,0,0, DOORS,doortest,0,0,0,0,0,0,ambient2,door5,0,0,ambient2,door5,0,0
+5,v25,423,"RockSlideE",3552,17504,1500,150,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,3,-405, 0,0,,0,9999, 0,0,0,0, 0
+5,v25,424,"RockSlideF",18496,16192,1500,150,0,-3,     1,2000,2000,1, 0,500,0,99999, 1,3,-405, 0,0,,0,9999, 0,0,0,0, 0

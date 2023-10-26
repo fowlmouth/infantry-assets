@@ -1,0 +1,193 @@
+4,v25,200,"MarineStart1A",1056,960,180,120,0,-3,  0,500,0,7,0, 2,1,"!%5"
+4,v25,201,"MarineStart1B",1008,5744,120,250,0,-3,  0,500,0,8,0, 2,1,"!%5"
+4,v25,202,"MarineDeathStart",14368,1440,450,250,0,-3,  0,500,0,500,1, 2,1,"!%5"
+4,v25,203,"AlienGameMainStart",5264,848,250,150,0,-3,  0,500,0,500,0, 2,0,"%5"
+6,v25,204,"ShuttleTransporterA",15152,1376,150,150,0,-3,    1,50,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,205,"AlienDeathStart",5216,848,400,150,0,-3,  0,500,0,500,1, 2,0,"%5"
+4,v25,210,"TransportDrainA",1056,960,180,120,0,-3,  0,500,0,8,50, 2,1,""
+4,v25,211,"TransportDrainB",1008,5744,120,250,0,-3,  0,500,0,8,50, 2,1,""
+5,v25,212,"SentryGunA",1280,1072,0,0,0,0,     1,0,0,0, 0,500,0,99999, 1,4,-400, 0,0,,0,1, 0,0,0,0, 0
+5,v25,213,"SentryGunD",1296,6064,0,0,0,0,     1,0,0,0, 0,500,0,99999, 1,4,-400, 0,0,,0,1, 0,0,0,0, 0
+3,v25,216,"Science Object A",8672,3328,150,650,0,-3,     750,21,500,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_A,0,0,10,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v25,217,"Science Object B",9120,4864,350,350,0,-3,     1000,11,20,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_B,0,0,10,0,0,0,bongs,objective,0,0,None,None,0,0
+7,v25,237,"EngineeringAmbient",3056,4864,555,420,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,BugHuntSounds,AmbientComputer,0,0
+7,v25,238,"EngineeringAmbientB",10052,2084,350,350,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,BugHuntSounds,AmbientRoomB,0,0
+7,v25,239,"EngineeringAmbientC",9118,4862,525,450,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,BugHuntSounds,AmbientRoomC,0,0
+7,v25,240,"ComputerRoomA",1120,4720,300,500,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,BugHuntSounds,AmbientRoom,0,0
+7,v25,241,"ComputerRoomB",8676,3348,250,500,0,-3,    -1,1000,1,0,0,  0,500,-1,  None,None,0,0,0,0,0,0,BugHuntSounds,AmbientRoom,0,0
+1,v25,270,"WestCargoLockA",944,1392,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,271,"WestCargoLockA1",976,1392,0,0,0,-3,    -1,-1,2,2, 0,270,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,272,"WestCargoLockA2",1008,1392,0,0,0,-3,    -1,-1,2,2, 0,270,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,273,"WestCargoLockA3",1040,1392,0,0,0,-3,    -1,-1,2,2, 0,270,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,274,"WestCargoLockA4",1072,1392,0,0,0,-3,    -1,-1,2,2, 0,270,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,371,"WestCargoLockA5",1104,1392,0,0,0,-3,    -1,-1,2,2, 0,270,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,275,"WestCargoLockASwitchA",1124,1316,0,0,0,-3,    0, 270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckE,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,276,"WestCargoLockASwitchB",1124,1444,0,0,0,-3,    0, 270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,277,"WestCargoLockB",5040,3168,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,278,"WestCargoLockB1",5072,3168,0,0,0,-3,    -1,-1,2,2, 0,277,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,279,"WestCargoLockB2",5104,3168,0,0,0,-3,    -1,-1,2,2, 0,277,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,280,"WestCargoLockB3",5136,3168,0,0,0,-3,    -1,-1,2,2, 0,277,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,285,"WestCargoLockBSwitchA",5156,3092,0,0,0,-3,    0, 277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,286,"WestCargoLockBSwitchB",5156,3204,0,0,0,-3,    0, 277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,288,"WestCargoLockC",1824,1024,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,289,"WestCargoLockC1",1824,1056,0,0,0,-3,    -1,-2,2,2, 0,288,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,290,"WestCargoLockC2",1824,1088,0,0,0,-3,    -1,-2,2,3, 0,288,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,292,"WestCargoLockCSwitchA",1748,980,0,0,0,-3,    0, 288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,293,"WestCargoLockCSwitchB",1892,980,0,0,0,-3,    0, 288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,295,"WestCargoLockD",2832,1072,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,296,"WestCargoLockD1",2832,1104,0,0,0,-3,    -1,-2,2,2, 0,295,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,297,"WestCargoLockD2",2832,1136,0,0,0,-3,    -1,-2,2,3, 0,295,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,299,"WestCargoLockDSwitchA",2900,1044,0,0,0,-3,    0, 295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,300,"WestCargoLockDSwitchB",2756,1044,0,0,0,-3,    0, 295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,301,"WestCargoLockE",5040,3568,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,302,"WestCargoLockE1",5072,3568,0,0,0,-3,    -1,-1,2,2, 0,301,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,303,"WestCargoLockE2",5104,3568,0,0,0,-3,    -1,-1,2,2, 0,301,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,304,"WestCargoLockE3",5136,3568,0,0,0,-3,    -1,-1,2,2, 0,301,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,308,"WestCargoLockESwitchA",5156,3492,0,0,0,-3,    0, 301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,309,"WestCargoLockESwitchB",5156,3604,0,0,0,-3,    0, 301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,310,"EastCargoLockF",7696,2576,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,311,"EastCargoLockF1",7728,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,312,"EastCargoLockF2",7760,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,313,"EastCargoLockF3",7792,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,314,"EastCargoLockF4",7824,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,315,"EastCargoLockF5",7856,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,316,"EastCargoLockF6",7888,2576,0,0,0,-3,    -1,-1,2,2, 0,310,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,318,"EastCargoLockFSwitchA",7908,2500,0,0,0,-3,    0, 310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,319,"EastCargoLockFSwitchB",7908,2628,0,0,0,-3,    0, 310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,320,"EastCargoLockG",7696,4112,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,321,"EastCargoLockG1",7728,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,322,"EastCargoLockG2",7760,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,323,"EastCargoLockG3",7792,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,324,"EastCargoLockG4",7824,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,325,"EastCargoLockG5",7856,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,372,"EastCargoLockG6",7888,4112,0,0,0,-3,    -1,-1,2,2, 0,320,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,326,"EastCargoLockGSwitchA",7908,4036,0,0,0,-3,    0, 320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,327,"EastCargoLockGSwitchB",7908,4164,0,0,0,-3,    0, 320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,336,"EastCargoLockI",8192,4800,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,337,"EastCargoLockI1",8192,4832,0,0,0,-3,    -1,-2,2,2, 0,336,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,338,"EastCargoLockI2",8192,4864,0,0,0,-3,    -1,-2,2,2, 0,336,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,339,"EastCargoLockI3",8192,4896,0,0,0,-3,    -1,-2,2,3, 0,336,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,342,"EastCargoLockISwitchA",8244,4788,0,0,0,-3,    0, 336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,343,"EastCargoLockISwitchB",8132,4788,0,0,0,-3,    0, 336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,352,"EastCargoLockK",8576,4800,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,353,"EastCargoLockK1",8576,4832,0,0,0,-3,    -1,-2,2,2, 0,352,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,354,"EastCargoLockK2",8576,4864,0,0,0,-3,    -1,-2,2,2, 0,352,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,355,"EastCargoLockK3",8576,4896,0,0,0,-3,    -1,-2,2,3, 0,352,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,357,"EastCargoLockKSwitchA",8644,4788,0,0,0,-3,    0, 352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,358,"EastCargoLockKSwitchB",8516,4788,0,0,0,-3,    0, 352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,359,"EastCargoLockL",9664,4800,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,360,"EastCargoLockL1",9664,4832,0,0,0,-3,    -1,-2,2,2, 0,359,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,361,"EastCargoLockL2",9664,4864,0,0,0,-3,    -1,-2,2,2, 0,359,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,362,"EastCargoLockL3",9664,4896,0,0,0,-3,    -1,-2,2,3, 0,359,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,364,"EastCargoLockLSwitchA",9716,4788,0,0,0,-3,    0, 359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,365,"EastCargoLockLSwitchB",9604,4788,0,0,0,-3,    0, 359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,374,"EastCargoLockM",10048,4800,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,375,"EastCargoLockM1",10048,4832,0,0,0,-3,    -1,-2,2,2, 0,374,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,376,"EastCargoLockM2",10048,4864,0,0,0,-3,    -1,-2,2,2, 0,374,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,377,"EastCargoLockM3",10048,4896,0,0,0,-3,    -1,-2,2,3, 0,374,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,379,"EastCargoLockMSwitchA",10116,4788,0,0,0,-3,    0, 374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,380,"EastCargoLockMSwitchB",9988,4788,0,0,0,-3,    0, 374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,382,"EastCargoLockN",10464,3040,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,383,"EastCargoLockN1",10464,3072,0,0,0,-3,    -1,-2,2,2, 0,382,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,384,"EastCargoLockN2",10464,3104,0,0,0,-3,    -1,-2,2,3, 0,382,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,386,"EastCargoLockNSwitchA",10516,3140,0,0,0,-3,    0, 382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,387,"EastCargoLockNSwitchB",10404,3140,0,0,0,-3,    0, 382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,389,"EastCargoLockO",10720,3040,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,390,"EastCargoLockO1",10720,3072,0,0,0,-3,    -1,-2,2,2, 0,389,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,391,"EastCargoLockO2",10720,3104,0,0,0,-3,    -1,-2,2,3, 0,389,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,393,"EastCargoLockOSwitchA",10772,3012,0,0,0,-3,    0, 389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,394,"EastCargoLockOSwitchB",10668,3012,0,0,0,-3,    0, 389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,396,"EastCargoLockP",10464,3536,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,397,"EastCargoLockP1",10464,3568,0,0,0,-3,    -1,-2,2,2, 0,396,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,398,"EastCargoLockP2",10464,3600,0,0,0,-3,    -1,-2,2,3, 0,396,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,400,"EastCargoLockPSwitchA",10516,3508,0,0,0,-3,    0, 396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,401,"EastCargoLockPSwitchB",10404,3508,0,0,0,-3,    0, 396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,403,"EastCargoLockQ",10720,3536,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,404,"EastCargoLockQ1",10720,3568,0,0,0,-3,    -1,-2,2,2, 0,403,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,405,"EastCargoLockQ2",10720,3600,0,0,0,-3,    -1,-2,2,3, 0,403,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,407,"EastCargoLockQSwitchA",10772,3652,0,0,0,-3,    0, 403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckF,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,408,"EastCargoLockQSwitchB",10676,3652,0,0,0,-3,    0, 403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,409,"WestCargoLockR",1440,4688,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,410,"WestCargoLockR1",1440,4720,0,0,0,-3,    -1,-2,2,2, 0,409,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,411,"WestCargoLockR2",1440,4752,0,0,0,-3,    -1,-2,2,3, 0,409,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,414,"WestCargoLockRSwitchA",1492,4644,0,0,0,-3,    0, 409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,415,"WestCargoLockRSwitchB",1380,4644,0,0,0,-3,    0, 409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,416,"WestCargoLockV",1824,5712,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,417,"WestCargoLockV1",1824,5744,0,0,0,-3,    -1,-2,2,2, 0,416,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,418,"WestCargoLockV2",1824,5776,0,0,0,-3,    -1,-2,2,3, 0,416,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,421,"WestCargoLockVSwitchA",1892,5684,0,0,0,-3,    0, 416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,422,"WestCargoLockVSwitchB",1748,5684,0,0,0,-3,    0, 416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,1000, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,424,"WestCargoLockS",5344,2384,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,425,"WestCargoLockS1",5344,2416,0,0,0,-3,    -1,-2,2,2, 0,424,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,426,"WestCargoLockS2",5344,2448,0,0,0,-3,    -1,-2,2,3, 0,424,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,428,"WestCargoLockSSwitchA",5284,2340,0,0,0,-3,    0, 424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckC,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,429,"WestCargoLockSSwitchB",5396,2340,0,0,0,-3,    0, 424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckG,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,431,"WestCargoLockT",5440,3328,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,432,"WestCargoLockT1",5440,3360,0,0,0,-3,    -1,-2,2,2, 0,431,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,433,"WestCargoLockT2",5440,3392,0,0,0,-3,    -1,-2,2,3, 0,431,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,435,"WestCargoLockTSwitchA",5492,3300,0,0,0,-3,    0, 431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,436,"WestCargoLockTSwitchB",5380,3300,0,0,0,-3,    0, 431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,438,"WestCargoLockU",5344,4240,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,439,"WestCargoLockU1",5344,4272,0,0,0,-3,    -1,-2,2,2, 0,438,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,440,"WestCargoLockU2",5344,4304,0,0,0,-3,    -1,-2,2,3, 0,438,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,442,"WestCargoLockUSwitchA",5412,4196,0,0,0,-3,    0, 438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,443,"WestCargoLockUSwitchB",5272,4208,0,0,0,-3,    0, 438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+5,v25,444,"AmmoDispRine",5088,3360,0,0,0,-3,     1,0,0,0, 0,500,0,99999, 1,1,-401, 0,0,,0,1, 0,0,-2,0, -1
+6,v25,445,"ShuttleTransporterB",15152,1488,150,150,0,-3,    1,50,, 0,0,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+5,v25,450,"SentryGunB",1376,992,0,0,0,0,     1,0,0,0, 0,500,0,99999, 1,4,-400, 0,0,,0,1, 0,0,0,0, 0
+5,v25,451,"SentryGunC",1296,5424,0,0,0,0,     1,0,0,0, 0,500,0,99999, 1,4,-400, 0,0,,0,1, 0,0,0,0, 0
+4,v25,500,"AlienGameSecStart",12416,3088,300,100,0,-3,  12,500,0,500,0, 2,0,"%5"
+3,v25,501,"Science Object C",5088,3328,150,700,0,-3,     1000,11,20,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_C,0,0,10,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v25,502,"Science Object D",4624,9280,125,150,0,-3,     1000,11,20,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_A,0,0,10,0,0,0,bongs,objective,0,0,None,None,0,0
+3,v25,503,"Science Object E",10048,1152,125,70,0,-3,     750,21,500,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_B,0,0,10,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v25,504,"Science Object F",7440,7920,300,125,0,-3,     750,21,500,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_C,0,0,10,0,0,0,bongs,objective,0,0,None,None,0,0
+3,v25,506,"Science Object G",6128,10928,200,125,0,-3,     750,21,500,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_A,0,0,10,0,0,0,bongs,Captured,0,0,None,None,0,0
+3,v25,507,"Science Object H",1056,4736,225,300,0,-3,     1000,0,10,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_B,0,0,10,0,0,0,bongs,objective,0,0,None,None,0,0
+3,v25,508,"Science Object I",3264,3424,600,300,0,-3,     1000,0,10,  3,3,3,0,0,  0,0,0,  1,0,1,2000,  0,0,2,0, 0,0,300,0,0, 0,0,0,0,0, 0,"3&!%5",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, BugHuntObjects,gizmo_C,0,0,10,0,0,0,bongs,Captured,0,0,None,None,0,0
+6,v25,600,"AlienHoleADown",8448,6080,80,75,0,-3,    0,20,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,601,"AlienHoleADown",12448,2688,80,75,0,-3,  0,500,0,500,20, 2,0,"!%1"
+4,v25,602,"AlienHoleAUp",8640,6080,80,75,0,-3,  0,500,0,500,21, 2,0,"!%1"
+6,v25,603,"AlienHoleAUp",12640,2688,80,75,0,-3,    0,21,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,610,"ServiceADown",15152,3248,55,60,0,-3,    0,22,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,611,"ServiceADown",4640,2048,100,40,0,-3,  0,500,0,500,22, 2,0,"!%1"
+4,v25,612,"ServiceAUp",15152,3376,100,40,0,-3,  0,500,0,500,23, 2,0,"!%1"
+6,v25,613,"ServiceAUp",4608,2176,55,60,0,-3,    0,23,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,614,"ServiceBDown",15152,4864,55,60,0,-3,    0,24,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,615,"ServiceBDown",4608,3680,100,40,0,-3,  0,500,0,500,24, 2,0,"!%1"
+4,v25,616,"ServiceBUp",15152,4976,100,40,0,-3,  0,500,0,500,25, 2,0,"!%1"
+6,v25,617,"ServiceBUp",4608,3792,55,60,0,-3,    0,25,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+6,v25,618,"ServiceCDown",15152,5584,55,60,0,-3,    0,26,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,620,"ServiceCDown",4624,4640,100,40,0,-3,  0,500,0,500,26, 2,0,"!%1"
+4,v25,621,"ServiceCUp",15152,5472,100,40,0,-3,  0,500,0,500,27, 2,0,"!%1"
+6,v25,622,"ServiceCUp",4608,4512,55,60,0,-3,    0,27,!%1, 0,2,0,UpDownArrows,bh_arrow_alien_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,700,"LowerLockA",4592,9888,0,0,0,-3,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,BugHuntSounds,DoorSound,0,0
+1,v25,701,"LowerLockA1",4624,9888,0,0,0,-3,    -1,-1,2,2, 0,700,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,702,"LowerLockA2",4656,9888,0,0,0,-3,    -1,-1,2,2, 0,700,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,703,"LowerLockA3",4688,9888,0,0,0,-3,    -1,-1,2,2, 0,700,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,704,"LowerLockASwitchA",4788,9812,0,0,0,-3,    0, 700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckD,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,705,"LowerLockASwitchB",4788,9956,0,0,0,-3,    0, 700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, "",1,  0,0,0,0,0,0, lock,DoorLckA,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,706,"LowerLockB",5712,8752,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,707,"LowerLockB1",5712,8784,0,0,0,-3,    -1,-2,2,2, 0,706,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,708,"LowerLockB2",5712,8816,0,0,0,-3,    -1,-2,2,3, 0,706,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,709,"LowerLockBSwitchA",5652,8724,0,0,0,-3,    0, 706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,710,"LowerLockBSwitchB",5764,8724,0,0,0,-3,    0, 706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,711,"LowerLockC",6784,9264,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,712,"LowerLockC1",6784,9296,0,0,0,-3,    -1,-2,2,2, 0,711,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,713,"LowerLockC2",6784,9328,0,0,0,-3,    -1,-2,2,3, 0,711,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,714,"LowerLockCSwitchA",6724,9236,0,0,0,-3,    0, 711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,715,"LowerLockCSwitchB",6836,9236,0,0,0,-3,    0, 711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,716,"LowerLockD",7232,9264,0,0,0,-3,    -1,-2,2,2, 0,0,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,717,"LowerLockD1",7232,9296,0,0,0,-3,    -1,-2,2,2, 0,716,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,718,"LowerLockD2",7232,9328,0,0,0,-3,    -1,-2,2,3, 0,716,0,0, DOORS,Metala,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+2,v25,719,"LowerLockDSwitchA",7172,9236,0,0,0,-3,    0, 716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckB,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+2,v25,720,"LowerLockDSwitchB",7284,9236,0,0,0,-3,    0, 716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,800, "",1,  0,0,0,0,0,0, lock,DoorLckH,0,0,0,0,0,0,BugHuntSounds,DoorSwitch,0,0
+1,v25,721,"LowerLockA4",4720,9888,0,0,0,-3,    -1,-1,2,2, 0,700,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+1,v25,722,"LowerLockA5",4752,9888,0,0,0,-3,    -1,-1,2,2, 0,700,0,0, DOORS,Metac,0,0,0,0,0,150,BugHuntSounds,DoorSound,0,0,None,None,0,0
+6,v25,730,"CargoLiftADown",4176,5552,100,80,0,-3,    -1,55,, 0,2,0,UpDownArrows,bh_arrow_human_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,731,"CargoLiftADown",4400,8816,90,60,0,-3,  0,500,0,500,55, 0,0,""
+6,v25,732,"CargoLiftAUp",4176,8816,90,75,0,-3,    -1,56,, 0,2,0,UpDownArrows,bh_arrow_human_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,733,"CargoLiftAUp",4176,5392,90,60,0,-3,  0,500,0,500,56, 0,0,""
+6,v25,734,"CargoLiftBDown",7792,6016,90,70,0,-3,    -1,57,, 0,2,0,UpDownArrows,bh_arrow_human_down,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,735,"CargoLiftBDown",7568,9312,90,60,0,-3,  0,500,0,500,57, 0,0,""
+6,v25,736,"CargoLiftBUp",7776,9312,90,70,0,-3,    -1,58,, 0,2,0,UpDownArrows,bh_arrow_human_up,0,0,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,737,"CargoLiftBUp",7792,5856,90,60,0,-3,  0,500,0,500,58, 0,0,""

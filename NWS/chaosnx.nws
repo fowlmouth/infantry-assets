@@ -1,0 +1,98 @@
+Chambert's Tournament
+
+~2~4Wipedrop~2~B
+Your default cash is 15k; however, all items less than 15k are droppable.
+This means you can get a full setup by buying guns, dropping them somewhere,
+using ?wipecharacter in spec to reset your account, then buying other guns,
+etc.  However, you should only do this with a fresh account, as it resets
+all your stats.
+
+~2~4Bonus Features~2~B
+
+~b~4First Blood messages are broadcast to every player currently in the game
+(not including spectator). Firstblood is defined as being the first
+player to kill another player during a crowning game.~b~4
+
+~b~4Killing Spree messages are broadcast to every player currently in the
+game (not including spectator).
+Killing Spree is defined as scoring a large number of kills whilst managing
+to stay alive; killing without being killed. You receive a cash bonus for
+each killing spree (5 kills) starting at 400 going up by 400 cash increments.
+The reward for ending someone's killing spree is 2 times that of the
+victim's last spree, but split evenly amongst the killer and his teammates.~b~4
+
+~b~4Multi Kill messages are broadcast to every player currently in the game
+(not including spectator). Multi Kill is defined as scoring concurrent kills
+within a certain period of time (10 seconds) of each other. You also receive
+a small cash bonus starting at 100 cash going up by 100 increments.~b~4K
+
+
+
+~2~4Zone Updates~2~B
+
+-Testers, use the bottom left portal. This will keep everyone in a relatively close spot
+-Default cash and exp are set to 10000000000 so there should be no need to prize cash or exp
+
+~b~4June 18, 2009~2~B
+-All alien biles should be set properly now
+-Increased speed of abduct drop
+-Spirit and Ironfist missles should work now
+-Mind storm/Tempest damage should work properly
+-Changed upper level alien flame to not be a spread
+-Evoker Morphs and Burrow should work now
+-Adjusted terrain settings on some vehicles to ensure they were mobile on all terrains
+-Increased radius of alien molt turrets
+-Alien tongue strikes should always pull in the correct direction now
+-A ton of other little changes and bug fixes not worth mentioning
+-Added some new variables of certain weapons, still a bunch more to go
+
+
+~b~4June 17, 2009~2~B
+-Took away MK2 and MK3 Grenades from Drop trooper
+-Took jump away from Imperial Guard
+-Gave Increase in speed to Bounty Hunter
+-Took away Peronnel Moltor Rifle from Bounty Hunter
+-Fixed up fusion torch repair to take 1 gas canister per repair, repairs 3 HP a second
+-Added Damage Control Kit, needs testing
+-Made Mr Fixit faster than other drivers
+-Added StG-87 and StG-89. Freedom Fighter has access to StG-87, infantry has access to StG-87 and StG-88, Praetorian has access to StG-87, StG-88, and StG-89
+-Gave Gewehr Carbine Sniper to Freedom Fighter
+-Removed Meson Projector from Praetorian
+-Removed Boomerang from shop
+-Removed PDU Plus (Psycho)
+-Made Titanium oxide visible on radar
+-All driver classes can now pick up titanium oxide
+-Man classes now drop blood (alien ammo) on death
+-Added blood projectile explosion to all man classes
+-Adjusted Alien bile explosions
+
+~b~4June 11, 2009~2~B
+-LIO and map fixes/additions, all gravestones should look correct now
+
+~b~4June 10, 2009~2~B
+-LIO file fixed, all warps and spawns should work correctly
+-All whirlwinds given short inactive time
+-All methods of healing and energizing fixed
+-Dropship recall fixed
+-Alien attributes fixed
+-Heavy Arms Specailst speed upped: 63 roll 53 strafe, 1600 top
+-Added STG to Heavy Arms Specialist.
+-Spanker taken away from purifer.
+-Holocaust removed from store.
+-Psycho Projector sleeper and comrade taken away from purifier.
+-Knocker Hammer and Shield Fader taken away from purifer.
+-Steroid Lite Kit taken away  from Contaminator.
+-Gave Terrorist basic Paralyzer.
+-Took Power corrupt, radio detonator, radio detonator upgrade, blood coagulator out of store. Power corrupt only one possible of keeping without lua.
+-Took suicide vest out of store.
+-Readded in Spec Ops Laser.
+-took Molotov Cocktail away from terrorist.
+-Added minigun into store
+-Took minigun and dual uziz away from heavy gunner.
+-FG-120 taken from Heavy Gunner and given to Heavy Arms specailist
+-AK-605 taken away from heavy gunner.
+-Took away all shotguns from heavy gunner.
+
+~b~4May 21, 2009~2~B
+-Chambert's Tournament placed up in test zone, lots of work to do!
+

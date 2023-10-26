@@ -1,0 +1,173 @@
+1,v25,1,"sibarrracksleftA1",10128,6320,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,2,"sibarrracksleftA2",10160,6320,0,0,0,0,    -1,-1,2,2, 0,1,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,3,"sibarrracksleftB1",10320,6320,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,4,"sibarracksleftA",10144,6304,60,60,0,0,    0, 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,5,"sibarrracksleftB2",10352,6320,0,0,0,0,    -1,-1,2,2, 0,3,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,6,"sibarracksleftB",10336,6304,60,60,0,0,    0, 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,7,"sibarrracksleftC1",10128,6512,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,8,"sibarrracksleftC2",10160,6512,0,0,0,0,    -1,-1,2,2, 0,7,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,9,"sibarrracksleftD1",10400,6448,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,10,"sibarrracksleftD2",10400,6480,0,0,0,0,    -1,-2,2,2, 0,9,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,11,"sibarrracksleftE1",10080,6352,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,12,"sibarrracksleftE2",10080,6384,0,0,0,0,    -1,-2,2,2, 0,11,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,13,"sibarracksleftC",10144,6528,60,60,0,0,    0, 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,14,"sibarracksleftD",10416,6464,60,60,0,0,    0, 9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,15,"sibarracksleftE",10064,6368,60,60,0,0,    0, 11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,16,"sibarrracksrightA1",12752,6320,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,17,"sibarrracksrightA2",12784,6320,0,0,0,0,    -1,-1,2,2, 0,16,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,18,"sibarrracksrightB1",12944,6320,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,19,"sibarrracksrightB2",12976,6320,0,0,0,0,    -1,-1,2,2, 0,18,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,20,"sibarrracksrightC1",12944,6512,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,21,"sibarrracksrightC2",12976,6512,0,0,0,0,    -1,-1,2,2, 0,20,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,22,"sibarrracksrightD1",12704,6448,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,23,"sibarrracksrightD2",12704,6480,0,0,0,0,    -1,-2,2,2, 0,22,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,24,"sibarrracksrightE1",13024,6352,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,25,"sibarrracksrightE2",13024,6384,0,0,0,0,    -1,-2,2,2, 0,24,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,26,"sibarracksrightA",12763,6299,60,60,0,0,    0, 16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,27,"sibarracksrightB",12955,6299,60,60,0,0,    0, 18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,28,"view",4320,6368,0,0,0,0,  0,0,0,0,0, 0,0,""
+1,v25,29,"sibarrracksleftF1",10128,6896,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,30,"sibarrracksleftF2",10160,6896,0,0,0,0,    -1,-1,2,2, 0,29,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,31,"sibarracksrightC",12955,6539,60,60,0,0,    0, 20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,32,"sibarracksrightD",12683,6443,60,60,0,0,    0, 22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,33,"sibarracksrightE",13051,6379,60,60,0,0,    0, 24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,34,"sibarrracksleftG1",10128,7088,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,35,"sibarrracksleftG2",10160,7088,0,0,0,0,    -1,-1,2,2, 0,34,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,36,"sibarrracksleftH1",10320,7088,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,37,"sibarrracksleftH2",10352,7088,0,0,0,0,    -1,-1,2,2, 0,36,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,38,"sibarrracksleftI1",10080,7024,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,39,"sibarrracksleftI2",10080,7056,0,0,0,0,    -1,-2,2,2, 0,38,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,40,"sibarrracksleftJ1",10400,6928,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,41,"sibarrracksleftJ2",10400,6928,0,0,0,0,    -1,-2,2,2, 0,40,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,42,"sibarracksleftF",10155,6859,60,60,0,0,    0, 29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,43,"sibarracksleftG",10155,7115,60,60,0,0,    0, 34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,44,"sibarracksleftH",10331,7115,60,60,0,0,    0, 36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,45,"sibarracksleftI",10059,7019,60,60,0,0,    0, 38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,46,"sibarracksleftJ",10427,6971,60,60,0,0,    0, 40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,47,"sibarrracksrightF1",12752,7088,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,48,"sibarrracksrightF2",12784,7088,0,0,0,0,    -1,-1,2,2, 0,47,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,49,"sibarrracksrightG1",12944,7088,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,50,"sibarrracksrightG2",12976,7088,0,0,0,0,    -1,-1,2,2, 0,49,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,51,"sibarrracksrightH1",12944,6896,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,52,"sibarrracksrightH2",12976,6896,0,0,0,0,    -1,-1,2,2, 0,51,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,53,"sibarrracksrightI1",12704,6928,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,54,"sibarrracksrightI2",12704,6960,0,0,0,0,    -1,-2,2,2, 0,53,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,55,"sibarrracksrightJ1",13024,7024,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,56,"sibarrracksrightJ2",13024,7056,0,0,0,0,    -1,-2,2,2, 0,55,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,57,"sibarracksrightF",12763,7115,60,60,0,0,    0, 47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,58,"sibarracksrightG",12971,7115,60,60,0,0,    0, 49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,59,"sibarracksrightH",12971,6875,60,60,0,0,    0, 51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,60,"sibarracksrightI",12683,6971,60,60,0,0,    0, 53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,61,"sibarracksrightJ",13051,7035,60,60,0,0,    0, 55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,62,"sibarrrackssouthA1",11216,7792,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,63,"sibarrrackssouthA2",11248,7792,0,0,0,0,    -1,-1,2,2, 0,62,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,64,"sibarrrackssouthB1",11088,8048,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,65,"sibarrrackssouthB2",11120,8048,0,0,0,0,    -1,-1,2,2, 0,64,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,66,"sibarrrackssouthC1",11040,7824,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,67,"sibarrrackssouthC2",11040,7856,0,0,0,0,    -1,-2,2,2, 0,66,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,68,"sibarrrackssouthD1",11040,7984,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,69,"sibarrrackssouthD2",11040,8016,0,0,0,0,    -1,-2,2,2, 0,68,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,70,"sibarrrackssouthE1",11296,7984,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,71,"sibarrrackssouthE2",11296,8016,0,0,0,0,    -1,-2,2,2, 0,70,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,72,"sibarrrackssouthF1",11856,7792,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,73,"sibarrrackssouthF2",11888,7792,0,0,0,0,    -1,-1,2,2, 0,72,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,74,"sibarrrackssouthG1",11984,8048,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,75,"sibarrrackssouthG2",12016,8048,0,0,0,0,    -1,-1,2,2, 0,74,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,76,"sibarrrackssouthH1",11808,7984,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,77,"sibarrrackssouthH2",11808,8016,0,0,0,0,    -1,-2,2,2, 0,76,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,78,"sibarrrackssouthI1",12064,7984,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,79,"sibarrrackssouthI2",12064,8016,0,0,0,0,    -1,-2,2,2, 0,78,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,80,"sibarrrackssouthJ1",12064,7824,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,81,"sibarrrackssouthJ2",12064,7856,0,0,0,0,    -1,-2,2,2, 0,80,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,82,"sibarrracksnorthA1",11216,5616,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,83,"sibarrracksnorthA2",11248,5616,0,0,0,0,    -1,-1,2,2, 0,82,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,84,"sibarrracksnorthB1",11088,5360,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,85,"sibarrracksnorthB2",11120,5360,0,0,0,0,    -1,-1,2,2, 0,84,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,86,"sibarrracksnorthC1",11040,5392,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,87,"sibarrracksnorthC2",11040,5424,0,0,0,0,    -1,-2,2,2, 0,86,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,88,"sibarrracksnorthD1",11040,5552,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,89,"sibarrracksnorthD2",11040,5584,0,0,0,0,    -1,-2,2,2, 0,88,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,90,"sibarrracksnorthE1",11296,5392,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,91,"sibarrracksnorthE2",11296,5424,0,0,0,0,    -1,-2,2,2, 0,90,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,92,"sibarrracksnorthF1",11856,5616,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,93,"sibarrracksnorthF2",11888,5616,0,0,0,0,    -1,-1,2,2, 0,92,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,94,"sibarrracksnorthG1",11984,5360,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,95,"sibarrracksnorthG2",12016,5360,0,0,0,0,    -1,-1,2,2, 0,94,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,96,"sibarrracksnorthH1",11808,5392,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,97,"sibarrracksnorthH2",11808,5424,0,0,0,0,    -1,-2,2,2, 0,96,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,98,"sibarrracksnorthI1",12064,5392,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,99,"sibarrracksnorthI2",12064,5424,0,0,0,0,    -1,-2,2,2, 0,98,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,100,"sibarrracksnorthJ1",12064,5552,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,101,"sibarrracksnorthJ2",12064,5552,0,0,0,0,    -1,-2,2,2, 0,100,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,102,"sibarracksnorthA",11227,5643,60,60,0,0,    0, 82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,103,"sibarracksnorthB",11115,5339,60,60,0,0,    0, 84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,104,"sibarracksnorthC",11019,5403,60,60,0,0,    0, 86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,105,"sibarracksnorthD",11019,5547,60,60,0,0,    0, 88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,106,"sibarracksnorthE",11307,5403,60,60,0,0,    0, 90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,107,"sibarracksnorthF",11867,5643,60,60,0,0,    0, 92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,108,"sibarracksnorthG",12011,5339,60,60,0,0,    0, 94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,109,"sibarracksnorthH",11787,5403,60,60,0,0,    0, 96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,110,"sibarracksnorthI",12091,5403,60,60,0,0,    0, 98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,111,"sibarracksnorthJ",12091,5563,60,60,0,0,    0, 100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,112,"sibarrackssouthA",11243,7771,60,60,0,0,    0, 62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,113,"sibarrackssouthB",11099,8075,60,60,0,0,    0, 64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,114,"sibarrackssouthC",11019,7835,60,60,0,0,    0, 66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,115,"sibarrackssouthD",11019,8011,60,60,0,0,    0, 68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,116,"sibarrackssouthE",11323,8011,60,60,0,0,    0, 70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,117,"sibarrackssouthF",11883,7771,60,60,0,0,    0, 72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,118,"sibarrackssouthG",11995,8075,60,60,0,0,    0, 74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,119,"sibarrackssouthH",11787,8011,60,60,0,0,    0, 76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,120,"sibarrackssouthI",12091,8011,60,60,0,0,    0, 78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,121,"sibarrackssouthJ",12091,7851,60,60,0,0,    0, 80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,122,"sibathleftA1",10736,6512,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,123,"sibathleftA2",10768,6512,0,0,0,0,    -1,-1,2,2, 0,122,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,124,"sibathleftA3",10800,6512,0,0,0,0,    -1,-1,2,2, 0,122,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,125,"sibathleftB1",10736,6896,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,126,"sibathleftB2",10768,6896,0,0,0,0,    -1,-1,2,2, 0,125,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,127,"sibathleftB3",10800,6896,0,0,0,0,    -1,-1,2,2, 0,125,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,128,"sibathrightA1",12304,6512,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,129,"sibathrightA2",12336,6512,0,0,0,0,    -1,-1,2,2, 0,128,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,130,"sibathrightA3",12368,6512,0,0,0,0,    -1,-1,2,2, 0,128,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,131,"sibathrightB1",12304,6896,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,132,"sibathrightB2",12336,6896,0,0,0,0,    -1,-1,2,2, 0,131,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,133,"sibathrightB3",12368,6896,0,0,0,0,    -1,-1,2,2, 0,131,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,134,"sibathsouthA1",11296,7552,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,135,"sibathsouthA2",11296,7568,0,0,0,0,    -1,-2,2,2, 0,134,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,136,"sibathsouthB1",11808,7552,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,137,"sibathsouthB2",11808,7568,0,0,0,0,    -1,-2,2,2, 0,136,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,138,"sibathnorthA1",11296,5840,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,139,"sibathnorthA2",11296,5856,0,0,0,0,    -1,-2,2,2, 0,138,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,140,"sibathnorthB1",11808,5840,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,141,"sibathnorthB2",11808,5856,0,0,0,0,    -1,-2,2,2, 0,140,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,142,"sibathleftA",10763,6507,60,60,0,0,    0, 122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,143,"sibathleftB",10763,6891,60,60,0,0,    0, 125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,144,"sibathrightA",12331,6507,60,60,0,0,    0, 128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,145,"sibathrightB",12331,6891,60,60,0,0,    0, 131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,146,"sibathnorthB",11803,5851,60,60,0,0,    0, 140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,147,"sibathnorthA",11291,5851,60,60,0,0,    0, 138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,148,"sibathsouthA",11291,7547,60,60,0,0,    0, 134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,149,"sibathsouthB",11803,7547,60,60,0,0,    0, 134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,150,"sibarelevA",11547,6491,70,90,0,0,    0, 151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,151,"sibarelevA1",11504,6560,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,152,"sibarelevA2",11536,6560,0,0,0,0,    -1,-1,2,2, 0,151,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,153,"sibarelevA3",11568,6560,0,0,0,0,    -1,-1,2,2, 0,151,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,154,"sibarelevA4",11600,6560,0,0,0,0,    -1,-1,2,2, 0,151,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,155,"sibarelevB1",11504,6848,0,0,0,0,    -1,-1,2,2, 0,0,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,156,"sibarelevB2",11536,6848,0,0,0,0,    -1,-1,2,2, 0,155,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,157,"sibarelevB3",11568,6848,0,0,0,0,    -1,-1,2,2, 0,155,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,158,"sibarelevB4",11600,6848,0,0,0,0,    -1,-1,2,2, 0,155,0,0, doors,Metac,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,159,"sibarelevB",11547,6907,70,90,0,0,    0, 155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+1,v25,160,"sibarelevC1",11376,6656,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,161,"sibarelevC2",11376,6688,0,0,0,0,    -1,-2,2,2, 0,160,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,162,"sibarelevC3",11376,6720,0,0,0,0,    -1,-2,2,2, 0,160,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,163,"sibarelevC4",11376,6752,0,0,0,0,    -1,-2,2,2, 0,160,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,164,"sibarelevD1",11728,6656,0,0,0,0,    -1,-2,2,2, 0,0,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,165,"sibarelevD2",11728,6688,0,0,0,0,    -1,-2,2,2, 0,164,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,166,"sibarelevD3",11728,6720,0,0,0,0,    -1,-2,2,2, 0,164,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+1,v25,167,"sibarelevD4",11728,6752,0,0,0,0,    -1,-2,2,2, 0,164,0,0, doors,Metala,0,0,0,0,0,0,bughuntsounds,DoorSound,0,0,bughuntsounds,DoorSound,0,0
+2,v25,168,"sibarelevC",11323,6699,100,90,0,0,    0, 160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+2,v25,169,"sibarelevD",11787,6699,100,90,0,0,    0, 164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 500,0,0,0,500, "",1,  0,0,0,0,0,0, None,None,0,0,0,0,0,0,None,None,0,0
+4,v25,170,"SIEntry",10080,6608,10,10,0,0,  0,500,0,500,1, 2,1,""
+4,v25,171,"RTEntry",4208,6208,10,10,0,0,  0,500,0,500,1, 2,0,""
+4,v25,172,"STCEntry",11008,6608,10,10,0,0,  0,500,0,500,1, 2,1,""
+4,v25,173,"PREntry",3984,4176,10,10,0,0,  0,500,0,500,1, 1,0,""

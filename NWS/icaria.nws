@@ -1,0 +1,65 @@
+
+Hello, and welcome to ~B[I:CTF] Icaria!~B This is a brand new Capture the Flag zone with gameplay similar to the Twin Peaks map. Two teams of 15 players fight to capture and defend five flags. Each side has three viable bases to choose from. Mineral deposits are located on the grassy areas of the map.
+
+~BV 1.05 ***** October 10, 2008~B
+
+--Increased victory timer to 120 seconds to account for strong bases and to make for longer games
+--Made some minor aesthetic changes
+
+~BV 1.04 ***** October 7, 2008~B
+
+--Gave all the above-ground entrance buildings two entrances
+--Made slight nerfs to A7 and D7 with elevator placement
+
+~BV 1.03 ***** October 6, 2008~B
+
+--Reverted to standard teams of Titan/Collective, with slightly modified uniforms
+--Shrunk map to make walk between bases easier and make for more focused gameplay
+--Expanded area of spawns to lessen chance to spawn into rape or flank situation
+--Changed indoor terrain color from brown to blue
+--Made multiple minor balance adjustments at bases
+--Reduced Assault Rifle/Battle Rifle/LMG damage from 22 to 21
+--Reduced price on Hoverboard and Flightpack to make it less burdensome
+
+~BV 1.02 ***** October 3, 2008~B
+
+--Made mineral graphics less bulky so it doesn’t clog bases as much when people lay them on ground
+--Fixed sound/graphic on Particle Accelerator
+--Adjusted some bases and above-ground entrance building to fix some imbalances
+--Adjusted spawn points to make it quicker to get across map
+
+~BV 1.01 ***** October 2, 2008~B
+
+--Recoiless Rifle returned to previous settings from Twin Peaks and Heinrich’s Point
+--IDF Generator cost fixed
+--Health Regeneration added in Dropship as it is in Heinrich’s Point
+
+~BV 1.00 ***** October 1, 2008~B
+
+~BSome in-game settings have been changed:~B
+--All classes now start with 100000 cash instead of 25000
+--All classes now start with full equipment, to help guide newer players in the right direction and put them on more of an even slate when first starting
+--Class change now costs 25000 cash (though 95% of that can be recouped by selling your new, larger starting inventory)
+--Class change is now permitted in the dropship, so you don’t have to spec and re-enter queue to change
+--Items and Minerals now remain on the ground for 5 minutes before disappearing
+
+~BSome weapon/armor properties have been changed:~B
+--CMP6  Assault Armor has been improved so it is now a viable alternative to Carapace
+--Kevlite Combat Armor has been improved so it is now a viable alternative to CMP4
+--IDF Generator has been slightly nerfed so it is more on par with PF Generator
+--EMP Generator, for Medics and Squad Leaders, has been added
+--The damage on Battle Rifles and Assault Rifles has been slightly increased
+--The damage on Stub Cannons has been slightly increased
+--The damage on Gauss Cannon has been slightly increased
+--Recoiless Rifle has been made slightly slower
+--The weight capacity on DropPacks and Deathboards has been increased from 40kg to 60kg
+
+~BMap Credits:~B
+
+--Design/Creation/Editing: Joe
+--Consulting/Editing: Military Police, Albert
+
+~BSpecial thanks to…~B
+
+--Ultrafoo and Sine for assistance in helping to learn how to edit the various files needed to make a zone.
+--The CTFPL community and various other CTFers for their assistance in testing the map and providing suggestions to improve it.

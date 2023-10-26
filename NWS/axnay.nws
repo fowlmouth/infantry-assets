@@ -1,0 +1,227 @@
+From: "acrimoneyius" <qwerty5544@aim.com>
+Subject: 
+Date: Thu, 17 Jan 2008 04:55:29 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Unsent: 1
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18000
+
+    ~6~BBelow is my to-do list: when the zone is released, it will be 
+replaced with an introduction message, explanation of game mechanics, and 
+list of fixes (dated)
+
+
+~2~4Templates
+ Projectile
+ Sound variation (firing)
+        ~2~4Basic
+ Every item needs 1 energy cost atleast
+ All projectiles have low gravity accel
+ Route Range = 32000 on infinite loop spells
+         ~2~4CFG
+  Use sAdjust (saturation) to color enemy projectiles, and grey out friendly 
+ones.
+  Leave UI warp sfx/gfx blank
+  Clear projectiles at start of game
+  Height mechanics
+       Low ceiling
+       Stand on objects? Yes (rope allows climbing)
+  All [Route Range] minimums must be set to 1
+       MinRouteRange=1
+       MinWeaponRouteRange=1
+       MinRouteRotationalFavor=1
+    ~2~4Primary Combat
+ Sword
+      Use vehicle gravity (negative)
+      Rotational
+      Noticeable Prefire
+      Velocities consistant
+  Shield
+      Tactical
+      Easy to use
+      Constant fire
+ Stamina
+      Spells (this will allow for mobile firing)
+      Sprint
+      Shield (use second energy, 5 seconds)
+ Bow (Might not even need it)
+     Magic (accelerates, decelerates, instant cast, or controlled)
+          Telekinetic spells (moveable projectiles with friction)
+          Self-cast switcher (upgrades switch alternate item)
+          Spell Books (allows for more key bindings, optional organization 
+tool, 5 books)
+               Ammo 1 > Spell (v1)          Spell (v1) > Ammo 1
+               Ammo 2 > Spell (v2)          Spell (v2) > Ammo 2
+  Write Spells (computer turret, produce menu)
+       Starts as blue (used up, less stamina cost)
+       Upgraded to green (several skill items [Upgrade - Blind, Upgrade - 
+Fire]
+       Chance of failure, deducts cash every time (?)
+ Spells
+      Force Field (vehicle repulse?)
+      Otiluke's Resilient sphere (force field onto enemy, also stuns 
+completely, or use circular wall with Route Range)
+      Push
+      Pull (use rotational path similar to boomerang, vehicle gravity)
+      Comet
+      Storm (infinite loop while stationary, energy damage to self, 
+projectile with z height, gravity acceleration,
+      Levitate (vertical recoil, ceiling relatively low)
+      Armageddon (high chance of misfire, kills EVERYTHING)
+      Stoneskin
+               Cfg - [vehicle] ComputerProduceForceDriver
+               Item Maker - Skill into inventory - Skill = vehicle
+               Vehicle's Global lifetime = 20
+      Wall of rocks (use negative vehicle gravity, string of projectiles)
+      Tenser's Floating Disc (raises minimum height, constant levitate)
+      Dimensional Lock (anti-warping turret)
+      Vaccuum (infinite loop while stationary, drains energy on self, does 
+wide area of effect damage only to enemies while pushing away enemies and 
+not their projectiles)
+      Sense (use Route Range instantaneous)
+      Ilusions (use Route Range enemy explosion)
+ Spell Utility
+       Prizing Upgrades
+       Downgrade weapon, upgrade weapon
+       Downgrade armor, upgrade armor
+       Downgrade spell, upgrade spell
+       Melt Gold
+       Morph into (prize demorph also, but only useable in DS after death)
+ Spell Vehicle
+       Flesh to stone (immobilize but protect)
+       Dimensional Anchor (vehicle not warpable)
+       Iron body (Immune to cuts, damaged by fire/electric/rock)
+       Shadow walk (Very fast)
+       Using a turret, shoot a weapon with a warp event that links the warp 
+to the warp group of the turret (through relative ID's)
+ Spell (possible?)
+      Mirror Image - Test dependent vehicle graphics
+      Dispel - Negates all utility effects, repulses all projectiles in the 
+area far away
+      Anchor - Warp to Mage (experiment with relative ID's, lio warps, 
+hides, computer turrets, etc)
+      Chain Lightning - Creates multiple turrets at a distance, auto-aim 
+multiple targets
+
+
+    ~2~4NPC
+     Bosses
+          Multiple turrets
+          Relative ID's allow bosses to move location
+          Drops good loot (use RTS states if possible)
+          Universal projectile (using warp event) spawns everyone to the 
+boss (randomized game event)
+     Basic AI - spawns together using relative ID's
+
+    ~2~4Items (lootable, chance of losing after death)
+             Weapon
+             Armor
+             Gold
+             Potions
+             Food
+             Rotten Food (slightly discolored)
+
+
+    ~2~4Base structures
+ Wall (wooden)
+ Archer (adjustable angle)
+ Ballista (gfx needed)
+ Catapult (gfx needed)
+    ~2~4GFX
+ Mage
+ Castle Walls
+ Medieval map objects
+    ~2~4SFX
+ Melee
+ Arrows
+ Horse
+ Spells
+~2~4Horse
+     War Horse (2 players, melee only)
+     Messenger Horse (1 player, melee and ranged)
+     Horse (2 players, melee and ranged)
+~2~4Map
+     Believable setting
+     75% landscape
+     15% human buildings
+     5% safe area, infantry-bullshit theme
+     5% duel area
+     Open areas
+     Main road
+~2~4Lio
+      Doors (use inverse state to choose door)
+      Terrain
+      0=Town Inn
+           Safe Zone
+           Duel Area
+           Event Area
+           -Vendors?
+      1=Forest (grass)
+           Climb trees
+           Spawn horses
+           Varied objects (terrain type)
+           -Kill trees for wood?
+           Death = floating spirit
+      2=Cave (mud)
+      3=Mountains (rock)
+           Open areas
+           Cliffs (fall off using 0 movement, negative friction)
+           Faster horses
+           Base building
+      4=River (water)
+           Boats
+           Slow walking
+           Less friction
+           Less projectile speed
+           No horse
+           No fire
+           Death = water splash
+      5=Lava (fire)
+           Death = flame burst
+      6=Sand
+      7=Snow
+      8=Falling! (cliff)
+      9=Road
+           -Slightly faster horse
+      10=Horse Stable? (gfx needed)
+      11=Colosseum
+           Death = cash/exp
+      12=Cleric Temple
+           Noticeable regeneration
+           Slower offensive spell velocities
+           Death = healing projectiles
+      13=Castle
+           No utility spells, offensive allowed
+           Spawn gold (in treasury)
+           Inverted doors
+           -No repulsion effects?
+           Death = decapitated head
+      14=Wizard's Tower
+           Animated objects
+           Parallax
+           Warp to anywhere (specific warps)
+           Write spells (comp turret)
+           Spawn "Teleport to Mage Tower" scrolls
+           Death = floating blood
+      15=The Void (stops all projectiles, shadow walk area)
+
+
+~2~4Objectives
+         Team DeathMatch [cfg]
+         Flags
+          Rewards
+          Transformations
+          Control NPC
+         Basing (defense)
+         Resources (lio spawned items)
+~2~4Economy
+~2~4Fluff
+ Guitar
+ Terrain Effects
+ Music compositions (optionally turned on/off) 

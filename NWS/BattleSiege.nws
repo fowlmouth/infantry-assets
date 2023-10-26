@@ -1,0 +1,47 @@
+~B~1Battle Siege!
+
+
+June 24 2:15 PM EST
+
+I decided to colour code our entry's, just to make it a little easier.
+
+ 
+
+"Weapons-X" items have had their categories renamed accordingly.  
+Death Ray for UFO had a reload problem, where you could fire 1 shot and that's it. Hopefully it's fixed. 
+Still trying to figure out why flags and warps won't show up on map. Something with the LIO file. 
+Anal Probe (Grenade Type Wep) had no projectile image - That's fixed. 
+Fixed attributes so they work properly. I hope.
+More to come.
+
+ 
+
+June 24 1:37AM EST
+
+"Weapons-Grenades" need to be condensed into the "Grenade" category, and lose the "Weapons-X" format. When ever I change classes, I  personally hate the extra wordage typing out the buy marcros.
+
+
+
+
+I think I left out battle shield and "Pummel" formerly known as Hulk Smash from the .itm in the last update. 
+
+
+ 
+
+The map is moving along despite missing the diagonal mars cliffs in the orange color. I'm substituting it with the regular lunar canyon cliffs for now. 
+ 
+
+June 23, 2009 3:34pm EST
+
+
+Super Soldier class was added to the .veh and the default weapons to the .itm. I think the Hulk Smash item is fine, may have to beef or nerf the damage on it. As for the battle shield, I'm not sure how the gravitational pull will effect the projectiles that the shield should deflect. Nod gave me some input on the explosion recoil and I may have to speak to Mode about how his vector shields work. For now we can test how the settings are until next update. The newest changes are on BattleSiege 062309.1.itm and .veh.
+ 
+
+ 
+
+Today, Liberty told me about this UFO that he had seen in a zone before. Turns out that I had not been in that zone before, so I didn't have the .blo's. He sent them, and now we've got ourselves one hell of a kick ass UFO for mods in our zone. I can't wait for Satori to get on so we can test out the changes since last night.
+
+ 
+
+Well as of today, alot of changes have been made since last night ( June 22, 09) when SatoriEnd first put up our zone. I found out that there was 1 error with the original compile sent to satori, which was that one item hadn't been coded properly and was very easily fixed... That and there were a few blo's missing because I started to dev the project using the dev package, which has .blo's in it that aren't in the Infantry directory. Satori congratulated me, due to the fact that there was only 1 error. He said that usually there are ALOT more errors when a new zone is being submitted for the 1st time.
+

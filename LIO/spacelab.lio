@@ -1,0 +1,33 @@
+4,v25,1,"Blueteamstart",23664,1856,0,0,0,-3,  0,0,0,0,2, 2,0,""
+1,v25,2,"Labdoor1",23008,2416,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,3,"Labdoor2",23040,2416,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,4,"LabDoor3",23056,2416,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,5,"IntCargoBayDoor 0",24304,1008,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,6,"IntCargoBayDoor 1",24336,1008,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,7,"IntCargoBayDoor 2",24368,1008,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+4,v25,8,"Redteamstart",25088,432,0,0,0,0,  0,0,0,0,2, 2,1,""
+1,v25,9,"IntCargoBayDoor 3",24400,1008,0,0,0,0,    -1,-1,2,2, 1000,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,10,"IntCargoBayDoor 4",24432,1008,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,11,"ExtCargoBayDoor0",24176,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,12,"ExtCargoBayDoor 1",24208,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,13,"ExtCargoBayDoor 4",24304,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,14,"ExtCargoBayDoor 3",24272,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,15,"ExtCargoBayDoor 2",24240,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,16,"ExtCargoBayDoor 5",24336,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,17,"ExtCargoBayDoor 6",24368,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,18,"ExtCargoBayDoor 7",24400,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,19,"ExtCargoBayDoor 8",24432,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,20,"ExtCargoBayDoor 9",24464,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,21,"ExtCargoBayDoor 10",24496,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,22,"ExtCargoBayDoor 11",24528,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,23,"ExtCargoBayDoor 12",24560,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,24,"ExtCargoBayDoor 13",24592,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,25,"ExtCargoBayDoor 14",24624,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,26,"ExtCargoBayDoor 15",24656,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,27,"ExtCargoBayDoor 16",24688,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,28,"ExtCargoBayDoor 17",24720,176,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,29,"BroomClosetDoor 0",24176,2032,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,30,"BroomClosetDoor 1",24208,2032,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,31,"ArmoryDoor 0",26160,1296,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,32,"ArmoryDoor 1",26192,1296,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0
+1,v25,33,"ArmoryDoor 2",26224,1296,0,0,0,0,    -1,-1,2,2, 0,0,0,0, DOORS,Metac,0,0,0,0,0,0,None,None,0,0,None,None,0,0

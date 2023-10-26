@@ -1,0 +1,8 @@
+v6,1,0,100,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Trooper","Classes","","Troopers are tough, resourceful, and fearless.",  ,,0,0,0,0,0,0
+v6,5,0,103,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Medic","Classes","","Medics are Troopers trained to heal their comrades.",  ,,0,0,0,0,0,0
+v6,6,0,104,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Ripper Gunner","Classes","","Ripper Gunners provide heavy fire support and anti-armor capability.",  ,,0,0,0,0,0,0
+v6,2,0,111,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sniper","Classes","","Snipers typically are used to interdict movement areas and to eliminate enemy command units.",  ,,0,0,0,0,0,0
+v6,8,0,101,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Scout","Classes","","Scouts find the enemy.",  ,,0,0,0,0,0,0
+v6,9,0,107,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Sergeant","Classes","","Sergeants keep units together and in the combat by use of sophisticated teleport units.",  ,,0,0,0,0,0,0
+v6,10,0,124,1,  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Engineer","Classes","","Engineers are trained to build things.",  ,,0,0,0,0,0,0
+v6,-13,10,-1,0,  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,  "Slick Keys"," ","","",  None,None,0,0,0,0,0,0
